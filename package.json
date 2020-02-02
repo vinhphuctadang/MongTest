@@ -1,0 +1,25 @@
+{
+  "name": "mongtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vinhphuctadang/MongTest.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "vinhphuctadang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinhphuctadang/MongTest/issues"
+  },
+  "homepage": "https://github.com/vinhphuctadang/MongTest#readme",
+  "dependencies": {
+    "mongoose": "^5.8.11"
+  }
+}
